@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb20_doma_5_taskov_na_klassi\Task_2\Task_2\obj\Debug\netcoreapp3.1\Task_2.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb20_doma_5_taskov_na_klassi\Task_2\Task_2\obj\Debug\netcoreapp3.1\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb20_doma_5_taskov_na_klassi\Task_2\Task_2\obj\Debug\netcoreapp3.1\Task_2.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb20_doma_5_taskov_na_klassi\Task_2\Task_2\obj\Debug\netcoreapp3.1\Task_2.AssemblyInfo.cs
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb20_doma_5_taskov_na_klassi\Task_2\Task_2\obj\Debug\netcoreapp3.1\Task_2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb20_doma_5_taskov_na_klassi\Task_2\Task_2\bin\Debug\netcoreapp3.1\Task_2.exe
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb20_doma_5_taskov_na_klassi\Task_2\Task_2\bin\Debug\netcoreapp3.1\Task_2.deps.json
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb20_doma_5_taskov_na_klassi\Task_2\Task_2\bin\Debug\netcoreapp3.1\Task_2.runtimeconfig.json
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb20_doma_5_taskov_na_klassi\Task_2\Task_2\bin\Debug\netcoreapp3.1\Task_2.runtimeconfig.dev.json
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb20_doma_5_taskov_na_klassi\Task_2\Task_2\bin\Debug\netcoreapp3.1\Task_2.dll
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb20_doma_5_taskov_na_klassi\Task_2\Task_2\bin\Debug\netcoreapp3.1\Task_2.pdb
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb20_doma_5_taskov_na_klassi\Task_2\Task_2\obj\Debug\netcoreapp3.1\Task_2.dll
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb20_doma_5_taskov_na_klassi\Task_2\Task_2\obj\Debug\netcoreapp3.1\Task_2.pdb
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb20_doma_5_taskov_na_klassi\Task_2\Task_2\obj\Debug\netcoreapp3.1\Task_2.genruntimeconfig.cache
